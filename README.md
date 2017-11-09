@@ -1,2 +1,3 @@
 # Healing-Hamper
 Healing-Hamper
+Healing Hamper is a website for a non-profit that benefits victims of sexual assault. They only had a Facebook page to promote their Go Fund Me page, previously. When you open the site, you will see a dialogue box pop-up once that will notify you that you can give to the healing hamper. This was created with JavaScript. I used CSS and HTML to style the webpage, sticking with the branding and theme in the Facebook group. At the top of the site there are two links - one external to the Go Fund Me page and one that goes to a page about the founder. There is also an external link at the bottom of the site to Facebook. 
